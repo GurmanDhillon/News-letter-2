@@ -1,1 +1,1 @@
-# News-letter-2
+# NewsLetter-Stage-2
